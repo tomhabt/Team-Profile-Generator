@@ -1,7 +1,6 @@
-1. Video demonstration for the typical user flow through the application (Part 1)
-Link: 
-2. Video demonstration for the typical user flow through the application (Part 2)
-Link: 
+1. Video demonstration for the typical user flow through the application 
+Link: https://drive.google.com/file/d/1NV50nsdloKEgWmAjltxJsPwF8dqpufAX/view?usp=sharing
+
 
   # TEAM-PROFILE-GENERATOR
  https://github.com/tomhabt/Team-Profile-Generator
