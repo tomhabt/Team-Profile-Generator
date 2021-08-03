@@ -246,15 +246,6 @@ function promptIntern ()  {
 };
 
 // Render the promot function, generate template for HTML and write the file
-promptManager()
-    .then(employeeArr => {
-        return generateTeam(employeeArr);
-    })
-    .then( team => {
-        console.log("success")
-        return writeFile(team);
-    })
-    .catch(err => {
-        console.log(err);
-    }) ;
+promptManager();
+    
 
